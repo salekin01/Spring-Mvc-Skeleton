@@ -2,5 +2,8 @@ C:\Users\salekin\eclipse-workspace\JavaSpringMvc\src\main\java\JavaSpringMvc\dao
 C:\Users\salekin\eclipse-workspace\JavaSpringMvc\src\main\java\JavaSpringMvc\model\Student.java
 C:\Users\salekin\eclipse-workspace\JavaSpringMvc\src\main\java\JavaSpringMvc\config\FrontControllerConfig.java
 C:\Users\salekin\eclipse-workspace\JavaSpringMvc\src\main\java\JavaSpringMvc\controller\CreateController.java
+C:\Users\salekin\eclipse-workspace\JavaSpringMvc\src\main\java\JavaSpringMvc\controller\DeleteController.java
 C:\Users\salekin\eclipse-workspace\JavaSpringMvc\src\main\java\JavaSpringMvc\config\WebMvcConfig.java
+C:\Users\salekin\eclipse-workspace\JavaSpringMvc\src\main\java\JavaSpringMvc\controller\ReadController.java
+C:\Users\salekin\eclipse-workspace\JavaSpringMvc\src\main\java\JavaSpringMvc\controller\UpdateController.java
 C:\Users\salekin\eclipse-workspace\JavaSpringMvc\src\main\java\JavaSpringMvc\dao\StudentDao.java
